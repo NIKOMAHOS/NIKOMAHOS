@@ -39,7 +39,6 @@ Welcome to my Github page! I am Nick and I am currently in my 3rd year of my Inf
 ## My GitHub Stats:
 <!-- You can use https://github.com/anuraghazra/github-readme-stats to generate the stats. -->
 
-### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKOMAHOS&layout=donut&show_icons=true&icon_color=FFFFFF&hide_border=true&border_radius=4&text_color=FFFFFF&theme=dark)
 
 <!--

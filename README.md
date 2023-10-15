@@ -34,7 +34,7 @@ Welcome to my Github page! I am Nick and I am currently in my 3rd year of my Inf
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaos-mitsakis/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mitsakisnick@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](discordapp.com/users/889527819464486992)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter&logoColor=white)](https://x.com/nick_mitsakis?t=uprRXmA0cntcdOCPLRwm1w&s=35)
+[![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=twitter&logoColor=blue)](https://x.com/nick_mitsakis?t=uprRXmA0cntcdOCPLRwm1w&s=35)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram)](www.instagram.com/nikos_mitsakis)
 
 ## My GitHub Stats:

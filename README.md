@@ -22,7 +22,7 @@ Welcome to my Github page! I am Nick and I am currently in my 3rd year of my Inf
 #### 💻 Programming languages and tools: 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-darkgreen?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/--00599C?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/--276DC3?style=flat-square&logo=R&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -33,6 +33,7 @@ Welcome to my Github page! I am Nick and I am currently in my 3rd year of my Inf
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaos-mitsakis/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mitsakisnick@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](discordapp.com/users/889527819464486992)
 [![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=twitter&logoColor=blue)](https://x.com/nick_mitsakis?t=uprRXmA0cntcdOCPLRwm1w&s=35)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram)](www.instagram.com/nikos_mitsakis)

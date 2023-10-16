@@ -33,12 +33,12 @@ Welcome to my Github page! I am Nick and I am currently in my 3rd year of my Inf
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaos-mitsakis/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mitsakisnick@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](discordapp.com/users/889527819464486992)
-[![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=twitter&logoColor=blue)](https://x.com/nick_mitsakis?t=uprRXmA0cntcdOCPLRwm1w&s=35)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram)](www.instagram.com/nikos_mitsakis)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaos-mitsakis/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-round&logo=Gmail&logoColor=white)](mailto:mitsakisnick@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-round&logo=telegram&logoColor=white)](https://t.me/NIKOMAHOS)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-round&logo=discord&logoColor=white)](discordapp.com/users/889527819464486992)
+[![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-round&logo=twitter&logoColor=blue)](https://x.com/nick_mitsakis?t=uprRXmA0cntcdOCPLRwm1w&s=35)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-round&logo=instagram)](www.instagram.com/nikos_mitsakis)
 
 ## My GitHub Stats:
 <!-- You can use https://github.com/anuraghazra/github-readme-stats to generate the stats. -->

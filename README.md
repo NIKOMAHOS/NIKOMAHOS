@@ -21,12 +21,12 @@ Welcome to my Github page! I am Nick and I am currently in my 3rd year of my Inf
   
 #### 💻 Programming languages and tools: 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-darkgreen?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FFD700?style=flat-square&logo=openjdk&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-darkblue?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/--276DC3?style=flat-square&logo=R&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-FF6347?style=flat-square&logo=css3)
 <!-- Add more badges as per your skills and tools, reference: https://shields.io/ -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>

@@ -1,4 +1,4 @@
-![Header]([github-header-image.png])
+<!--![Header]([github-header-image.png])-->
 # Nick Mitsakis - 20 y/o - Greece
 
 **Undergrad - Informatics @ AUEB**

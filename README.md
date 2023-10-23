@@ -1,3 +1,4 @@
+![Header](./[https://drive.google.com/file/d/1A43alousXCpOs3JVzaY9o3rmsG8DNNgu/view?usp=share_link])
 # Nick Mitsakis - 20 y/o - Greece
 
 **Undergrad - Informatics @ AUEB**

@@ -1,5 +1,5 @@
 <!--![Header]([github-header-image.png])-->
-# Nick Mitsakis - 20 y/o - Greece
+# Nick Mitsakis - 21 y/o - Greece
 
 **Undergrad - Informatics @ AUEB**
 
@@ -7,30 +7,28 @@ Welcome to my Github page! I am Nick and I am currently in my 3rd year of my Inf
 
 <a href="https://ibb.co/MDk47Nx"><img src="https://i.ibb.co/d04qDKw/deep-learning-vs-machine-learning-t.jpg" alt="deep-learning-vs-machine-learning-t" border="0"></a>
 
-#### 🧠 Things I am currently working on: 
+#### 🧠 Things I am working on: 
 - Taking my studies seriously
 - Trying to finish my Informatics Bachelor's Degree with an average grade higher that 8.51
-- Taking Jeremy Howard's free Course on Deep Learning using the fastai library (currently doing)
-- Taking other online courses about Data Science and Machine Learning (from Coursera and other platforms)
+- Currently enrolled in the Udemy Course: Data Science in Python: Data Prep & EDA from Maven Analytics
 
 #### 💪 Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 3 hours a day
 - Watching AI Related Podcasts & Youtube Videos to stay up to date
-- Exercising 5 days a week
-- Improving my CV with some education apart from university
+- Going to the gym 5 days a week (+1 extra day for cardio)
+- Improving my CV with some education apart from university (courses from Udemy/Coursera/Edx .etc)
   
 #### 💻 Programming languages and tools: 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-round&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-FFD700?style=flat-round&logo=openjdk&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-darkblue?style=flat-round&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/--276DC3?style=flat-round&logo=R&logoColor=white)
+<!-- ![R](https://img.shields.io/badge/--276DC3?style=flat-round&logo=R&logoColor=white) -->
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-round&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=flat-round&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-FF6347?style=flat-round&logo=css3)
 ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=flat-round&logo=markdown&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-cyan?style=flat-round&logo=postgresql&logoColor=black)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-228B22?style=flat-round&logo=microsoft-sql-server&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=flat-round&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-FF6347?style=flat-round&logo=css3)
 <!-- Add more badges as per your skills and tools, reference: https://shields.io/ -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>

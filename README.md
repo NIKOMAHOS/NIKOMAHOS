@@ -10,7 +10,7 @@ Welcome to my Github page! I am Nick and I am currently in my 3rd year of my Inf
 #### 🧠 Things I am working on: 
 - Taking my studies seriously
 - Trying to finish my Informatics Bachelor's Degree with an average grade higher that 8.51
-- Currently enrolled in the Udemy Course: Data Science in Python: Data Prep & EDA from Maven Analytics
+- Currently enrolled in the Udemy Course: Data Warehouse Fundamentals for Beginners by Alan Simon
 
 #### 💪 Things I am challenging myself with:
 - Waking up earlier to make good use of the day

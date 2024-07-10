@@ -15,7 +15,7 @@ Welcome to my Github page! I am Nick and I am currently in my 3rd year of my Inf
 #### 💪 Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Watching AI Related Podcasts & Youtube Videos to stay up to date
-- Going to the gym 5 days a week (+1 extra day for cardio)
+- Going to the gym 5 days a week (+1 extra day going running for cardio)
 - Improving my CV with some education apart from university (courses from Udemy/Coursera/Edx .etc)
   
 #### 💻 Programming languages and tools: 

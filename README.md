@@ -3,23 +3,33 @@
 
 **Undergrad - Informatics @ AUEB**
 
-Welcome to my Github page! I am Nick and I am currently in my 3rd year of my Informatics Bachelor degree at the Athens University of Economics & Business !  
+Welcome to my GitHub page! I am Nick, currently in the 4th year of my Informatics Bachelor degree at the ![Athens University of Economics & Business](https://www.aueb.gr/en)!  
 
 <a href="https://ibb.co/MDk47Nx"><img src="https://i.ibb.co/d04qDKw/deep-learning-vs-machine-learning-t.jpg" alt="deep-learning-vs-machine-learning-t" border="0"></a>
 
 #### 🧠 Things I am working on: 
 - Taking my studies seriously
-- Trying to finish my Informatics Bachelor's Degree with an average grade higher that 8.51
-- Currently enrolled in the Udemy Course: Data Warehouse Fundamentals for Beginners by Alan Simon
+- Doing Volunteer work through ![ISA](https://www.linkedin.com/company/infosciassoc/?viewAsMember=true) which I co-founded at my university.
+- Trying to finish my Informatics Bachelor's Degree with an average grade higher than 8.51
+- Currently enrolled in the Udemy Course: Unsupervised Learning by 
 
 #### 💪 Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Watching AI Related Podcasts & Youtube Videos to stay up to date
+- Watching AI Related Podcasts & YouTube Videos to stay up-to date
 - Going to the gym 5 days a week (+1 extra day going running for cardio)
-- Improving my CV with some education apart from university (courses from Udemy/Coursera/Edx .etc)
+- Improving my CV with some education apart from university (courses from Udemy/Coursera/Edx etc.)
+- Reading Epic Fantasy Books and Popular Science books
   
-#### 💻 Programming languages and tools: 
+#### 💻 Programming languages, frameworks and tools: 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-round&logo=python&logoColor=white)
+    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+    ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+    ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+    ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+    
 ![Java](https://img.shields.io/badge/-Java-FFD700?style=flat-round&logo=openjdk&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-darkblue?style=flat-round&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-round&logo=git&logoColor=white)
@@ -43,7 +53,10 @@ Welcome to my Github page! I am Nick and I am currently in my 3rd year of my Inf
 ## My GitHub Stats:
 <!-- You can use https://github.com/anuraghazra/github-readme-stats to generate the stats. -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKOMAHOS&layout=donut&show_icons=true&icon_color=FFFFFF&hide_border=true&border_radius=4&text_color=FFFFFF&theme=dark&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKOMAHOS&layout=donut&show_icons=true&icon_color=FFFFFF&hide_border=true&border_radius=4&text_color=FFFFFF&theme=dark&hide=html,CSS)
+
+## See my experiences:
+![CV LINK](https://drive.google.com/file/d/1YZxUcbN91DoHbvJdZdMzgZXKkFm2g8Ch/view?usp=sharing)
 
 <!--
 **NIKOMAHOS/NIKOMAHOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

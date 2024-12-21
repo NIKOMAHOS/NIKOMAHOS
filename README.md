@@ -19,7 +19,7 @@ Welcome to my GitHub page! I am Nick, currently in the 4th year of my Informatic
 - Watching AI Related Podcasts & YouTube Videos to stay up-to date
 - Going to the gym 5 days a week (+1 extra day going running for cardio)
 - Improving my CV with some education apart from university (courses from Udemy/Coursera/Edx etc.)
-- Reading Epic Fantasy Books and Popular Science books
+- Reading Popular Science, as well as Epic Fantasy books
   
 #### 💻 Programming languages, frameworks and tools: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

@@ -9,9 +9,10 @@ Welcome to my GitHub page! I am Nick, currently in the 4th year of my Informatic
 
 #### 🧠 Things I am working on: 
 - Taking my studies seriously
-- Doing Volunteer work through [ISA](https://www.linkedin.com/company/infosciassoc/?viewAsMember=true) which I co-founded at my university.
+- Doing CS-related volunteer work through [ISA](https://www.linkedin.com/company/infosciassoc/?viewAsMember=true) which I co-founded at my university.
 - Trying to finish my Informatics Bachelor's Degree with an average grade higher than 8.51
-- Currently enrolled in the Udemy Course: Unsupervised Learning by 
+- Currently enrolled in the Udemy Course: [Python Data Science: Unsupervised Machine Learning](https://www.udemy.com/course/data-science-in-python-unsupervised-learning/?couponCode=KEEPLEARNING) by Maven Analytics, Alice Zhao
+
 
 #### 💪 Things I am challenging myself with:
 - Waking up earlier to make good use of the day
@@ -21,7 +22,7 @@ Welcome to my GitHub page! I am Nick, currently in the 4th year of my Informatic
 - Reading Epic Fantasy Books and Popular Science books
   
 #### 💻 Programming languages, frameworks and tools: 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-round&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
     ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -38,6 +39,7 @@ Welcome to my GitHub page! I am Nick, currently in the 4th year of my Informatic
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-228B22?style=flat-round&logo=microsoft-sql-server&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=flat-round&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-FF6347?style=flat-round&logo=css3)
+
 <!-- ![R](https://img.shields.io/badge/--276DC3?style=flat-round&logo=R&logoColor=white) -->
 <!-- Add more badges as per your skills and tools, reference: https://shields.io/ -->
 

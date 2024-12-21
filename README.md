@@ -3,13 +3,13 @@
 
 **Undergrad - Informatics @ AUEB**
 
-Welcome to my GitHub page! I am Nick, currently in the 4th year of my Informatics Bachelor degree at the ![Athens University of Economics & Business](https://www.aueb.gr/en)!  
+Welcome to my GitHub page! I am Nick, currently in the 4th year of my Informatics Bachelor degree at the [Athens University of Economics & Business](https://www.aueb.gr/en)!  
 
 <a href="https://ibb.co/MDk47Nx"><img src="https://i.ibb.co/d04qDKw/deep-learning-vs-machine-learning-t.jpg" alt="deep-learning-vs-machine-learning-t" border="0"></a>
 
 #### 🧠 Things I am working on: 
 - Taking my studies seriously
-- Doing Volunteer work through ![ISA](https://www.linkedin.com/company/infosciassoc/?viewAsMember=true) which I co-founded at my university.
+- Doing Volunteer work through [ISA](https://www.linkedin.com/company/infosciassoc/?viewAsMember=true) which I co-founded at my university.
 - Trying to finish my Informatics Bachelor's Degree with an average grade higher than 8.51
 - Currently enrolled in the Udemy Course: Unsupervised Learning by 
 
@@ -56,7 +56,7 @@ Welcome to my GitHub page! I am Nick, currently in the 4th year of my Informatic
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKOMAHOS&layout=donut&show_icons=true&icon_color=FFFFFF&hide_border=true&border_radius=4&text_color=FFFFFF&theme=dark&hide=html,CSS)
 
 ## See my experiences:
-![CV LINK](https://drive.google.com/file/d/1YZxUcbN91DoHbvJdZdMzgZXKkFm2g8Ch/view?usp=sharing)
+[CV LINK](https://drive.google.com/file/d/1YZxUcbN91DoHbvJdZdMzgZXKkFm2g8Ch/view?usp=sharing)
 
 <!--
 **NIKOMAHOS/NIKOMAHOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

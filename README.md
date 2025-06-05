@@ -1,5 +1,5 @@
 <!--![Header]([github-header-image.png])-->
-# Nick Mitsakis - 21 y/o - Greece
+# Nick Mitsakis - 22 y/o - Greece
 
 **Undergrad - Informatics @ AUEB**
 
@@ -8,7 +8,8 @@ Welcome to my GitHub page! I am Nick, currently in the 4th year of my Informatic
 <a href="https://ibb.co/MDk47Nx"><img src="https://i.ibb.co/d04qDKw/deep-learning-vs-machine-learning-t.jpg" alt="deep-learning-vs-machine-learning-t" border="0"></a>
 
 #### 🧠 Things I am working on: 
-- Taking my studies seriously
+- Finishing my Bsc. Thesis (and my degree) on Dialogue Systems leveraging RAG techniques
+- Working on side Projects related to AI+RAG Apps
 - Doing CS-related volunteer work through [ISA](https://www.linkedin.com/company/infosciassoc/?viewAsMember=true) which I co-founded at my university.
 - Trying to finish my Informatics Bachelor's Degree with an average grade higher than 8.51
 - Currently enrolled in the Udemy Course: [Python Data Science: Unsupervised Machine Learning](https://www.udemy.com/course/data-science-in-python-unsupervised-learning/?couponCode=KEEPLEARNING) by Maven Analytics, Alice Zhao
@@ -16,6 +17,7 @@ Welcome to my GitHub page! I am Nick, currently in the 4th year of my Informatic
 
 #### 💪 Things I am challenging myself with:
 - Waking up earlier to make good use of the day
+- Reading latest Academic Papaers on my field
 - Watching AI Related Podcasts & YouTube Videos to stay up-to date
 - Going to the gym 5 days a week (+1 extra day going running for cardio)
 - Improving my CV with some education apart from university (courses from Udemy/Coursera/Edx etc.)
